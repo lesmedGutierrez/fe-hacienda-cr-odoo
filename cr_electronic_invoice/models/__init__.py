@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
 
-import electronic_invoice
 import account_journal
+import res_company
+import electronic_invoice
